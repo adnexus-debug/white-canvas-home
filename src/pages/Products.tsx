@@ -7,7 +7,7 @@ import ProductCard from "@/components/products/ProductCard";
 // Mock data - will be replaced with Supabase queries
 const allProducts = [
   { id: 1, name: "Wireless Bluetooth Headphones", price: 2499, image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400", category: "Electronics", stock: 15 },
-  { id: 2, name: "Casual Cotton T-Shirt", price: 599, image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400", category: "Clothing", stock: 50 },
+  { id: 2, name: "Casual Cotton T-Shirt", price: 599, image: "https://thumbs.dreamstime.com/b/autumn-background-table-fallen-red-maple-leaves-natural-seasonal-home-decor-fall-season-thanksgiving-holiday-showroom-404530158.jpg?w=1400", category: "Clothing", stock: 50 },
   { id: 3, name: "Stainless Steel Water Bottle", price: 449, image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400", category: "Home & Kitchen", stock: 3 },
   { id: 4, name: "Leather Wallet", price: 899, image: "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400", category: "Accessories", stock: 0 },
   { id: 5, name: "Smart Watch", price: 4999, image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400", category: "Electronics", stock: 8 },

@@ -7,7 +7,7 @@ import CategoryCard from "@/components/categories/CategoryCard";
 // Mock data - will be replaced with Supabase queries
 const featuredProducts = [
   { id: 1, name: "Wireless Bluetooth Headphones", price: 2499, image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400", category: "Electronics", stock: 15 },
-  { id: 2, name: "Casual Cotton T-Shirt", price: 599, image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400", category: "Clothing", stock: 50 },
+  { id: 2, name: "Casual Cotton T-Shirt", price: 599, image: "https://www.amazon.in/CraftVatika-Decorative-Showpiece-Showpieces-Decoration/dp/B0CYT4NJT4", category: "Clothing", stock: 50 },
   { id: 3, name: "Stainless Steel Water Bottle", price: 449, image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400", category: "Home & Kitchen", stock: 3 },
   { id: 4, name: "Leather Wallet", price: 899, image: "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400", category: "Accessories", stock: 0 },
 ];
